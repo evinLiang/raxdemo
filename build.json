@@ -1,0 +1,7 @@
+{
+  "targets": [
+    "web"
+  ],
+  "publicPath": "/",
+  "plugins": []
+}
